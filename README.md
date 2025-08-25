@@ -1,1 +1,1 @@
-# customer-churn-prediction.py
+This is a ML project to predict the customer churn rates.
